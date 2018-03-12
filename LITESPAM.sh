@@ -33,7 +33,7 @@ then
 clear
 echo "\033[31;1m"
 toilet "FB-Brute"
-py fbbrute.py
+python2 fbbrute.py
 fi
 
 if
