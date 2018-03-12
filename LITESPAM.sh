@@ -55,7 +55,7 @@ sleep 1
 echo "All Member Famous Xploit"
 echo "\033[30;1m tunggu 5 detik"
 sleep 5
-sh LITESPAM.sh
+sh Tools.sh
 fi
 
 if
