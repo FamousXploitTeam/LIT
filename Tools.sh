@@ -50,7 +50,8 @@ sleep 1
 echo "\033[36;1mTeam: Famous Xploit Team"
 sleep 1
 echo "\033[31;1m Spesial Thanks To: "
-
+sleep 1
+echo "Bang Djon"
 sleep 1
 echo "All Member Famous Xploit"
 echo "\033[30;1m tunggu 5 detik"
