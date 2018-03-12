@@ -13,6 +13,7 @@ sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Telkomsel"
 echo "2. FB-Bruteforce"
+echo "3. Hammer"
 echo "0. Keluar"
 echo "\033[30;1m81. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -34,6 +35,15 @@ clear
 echo "\033[31;1m"
 toilet "FB-Brute"
 python2 fbbrute.py
+fi
+
+if
+[ $mrrm = 3 ] || [ $mrrm = 3 ]
+then
+clear
+echo "\033[31;1m"
+toilet "Hammer"
+python hammer.py
 fi
 
 if
