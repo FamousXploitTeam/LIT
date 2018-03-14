@@ -10,7 +10,7 @@ echo "\033[32;1m Contact: +16285006979"
 sleep 1
 echo "\033[34;1m Famous Xploit Team"
 sleep 1
-echo "\033[36;1m Spam Yang Tersedia :"
+echo "\033[36;1m DDOS Yang Tersedia :"
 echo "1. Torshammer"
 echo "0. Kembali"
 echo "\033[30;1m99. Cara Memakai Tools Ini"
