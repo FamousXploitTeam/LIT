@@ -72,7 +72,7 @@ then
 clear
 toilet -f mono12 -F gay "Info"
 echo "\033[33;1m"
-sh Info1.sh
+sh cara1.sh
 fi
 
 if
