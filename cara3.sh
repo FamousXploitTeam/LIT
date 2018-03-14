@@ -38,7 +38,7 @@ sleep 1
 echo "\033[36;1mJika di sd card = /sdcard/password.txt"
 sleep 1
 echo "\033[36;1mJika di Internal = /storage/emulated/0/password.txt"
-echo "\033[30;1m tunggu 8 detik"
+echo "\033[30;1m tunggu 30 detik"
 sleep 30
 sh cara3.sh
 fi
