@@ -2,7 +2,7 @@
 clear
 toilet -f slant --gay "Spam"
 sleep 1
-echo "\033[31;1m Macam-macam tool untuk spam"
+echo "\033[31;1m Macam-macam tool untuk ddos"
 sleep 1
 echo "\033[33;1m Author: Walker#04"
 sleep 1
