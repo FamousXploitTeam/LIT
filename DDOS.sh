@@ -36,7 +36,7 @@ sh cara2.sh
 fi
 
 if
-[ $mrrm = 1 ] || [ $mrrm = 1 ]
+[ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
 clear
 echo "\033[31;1m"
