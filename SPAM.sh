@@ -16,7 +16,7 @@ echo "2. Tokopedia"
 echo "3. Matahari Mall"
 echo "4. PHD"
 echo "5. Jd.Id"
-echo "0. Keluar"
+echo "0. Kembali"
 echo "\033[30;1m99. Cara Memakai Tools Ini"
 echo "\033[33;1m Pilih Angka:"
 read mrrm
@@ -78,8 +78,8 @@ fi
 if
 [ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
-echo "\033[31;1m Keluar"
-sleep 1
-echo "\033[32;1m See You Later! :)"
-sleep 1
+clear
+echo "\033[31;1m"
+toilet "Kembali"
+sh Tools.sh
 fi
