@@ -23,7 +23,7 @@ clear
 toilet -f slant --gay "FB-Bruteforce"
 echo "\033[31;1mNama tools: FB-Bruteforce"
 sleep 1
-echo "\033[33;1m1.Buka browser masuk ke fb kalian cari mana yang mau di hack copy link nya"
+echo "\033[33;1mBuka browser masuk ke fb kalian cari mana yang mau di hack copy link nya"
 sleep 1
 echo "\033[32;1mContoh: https://mobile.facebook.comfbid=1893563707637904&id=100009528791467&set=a"
 sleep 1
