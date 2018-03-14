@@ -10,9 +10,10 @@ echo "\033[32;1m Contact: +16285006979"
 sleep 1
 echo "\033[34;1m Famous Xploit Team"
 sleep 1
-echo "\033[36;1m Spam Yang Tersedia :"
+echo "\033[36;1m Tools Yang Tersedia :"
 echo "1. Spam"
 echo "2. DDOS"
+echo "3. Hack"
 echo "0. Keluar"
 echo "\033[30;1m99. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -34,6 +35,15 @@ clear
 echo "\033[31;1m"
 toilet "DDOS"
 sh DDOS.sh
+fi
+
+if
+[ $mrrm = 3 ] || [ $mrrm = 3 ]
+then
+clear
+echo "\033[31;1m"
+toilet "Hack"
+sh Hack.sh
 fi
 
 if
