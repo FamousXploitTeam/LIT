@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Spam"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
