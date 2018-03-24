@@ -14,6 +14,7 @@ echo "\033[36;1m Tools Yang Tersedia :"
 echo "1. Spam"
 echo "2. DDOS"
 echo "3. Hack"
+echo "4. Admin Finder"
 echo "0. Keluar"
 echo "\033[30;1m99. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -44,6 +45,15 @@ clear
 echo "\033[31;1m"
 toilet "Hack"
 sh Hack.sh
+fi
+
+if
+[ $mrrm = 4 ] || [ $mrrm = 4 ]
+then
+clear
+echo "\033[31;1m"
+toilet "AdminFinder"
+python2 adminfinder.py
 fi
 
 if
