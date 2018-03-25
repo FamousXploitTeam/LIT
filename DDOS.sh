@@ -12,6 +12,7 @@ echo "\033[34;1m Famous Xploit Team"
 sleep 1
 echo "\033[36;1m DDOS Yang Tersedia :"
 echo "1. Torshammer"
+echo "2. Ddos"
 echo "0. Kembali"
 echo "\033[30;1m99. Cara Memakai Tools Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -24,6 +25,15 @@ clear
 echo "\033[31;1m"
 toilet "Torshammer"
 python2 torshammer.py
+fi
+
+if
+[ $mrrm = 2 ] || [ $mrrm = 2 ]
+then
+clear
+echo "\033[31;1m"
+toilet "Ddos"
+python2 ddos.py
 fi
 
 if
