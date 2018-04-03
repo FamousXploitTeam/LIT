@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Spam"
+toilet -f slant --gay "DDOS"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk ddos"
 sleep 1
