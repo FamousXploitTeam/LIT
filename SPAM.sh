@@ -16,6 +16,7 @@ echo "2. Tokopedia"
 echo "3. Matahari Mall"
 echo "4. PHD"
 echo "5. Jd.Id"
+echo "6. Hooq"
 echo "0. Kembali"
 echo "\033[30;1m99. Cara Memakai Tools Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -64,6 +65,15 @@ clear
 toilet -f mono12 -F gay "Jd.Id"
 echo "\033[33;1m"
 php JDID.php
+fi
+
+if
+[ $mrrm = 6 ] || [ $mrrm = 6 ]
+then
+clear
+toilet -f mono12 -F gay "Hooq"
+echo "\033[33;1m"
+php bomhooq.php
 fi
 
 if
